@@ -1,6 +1,6 @@
 # AngularJS wrapper for SweetAlert
 
-AngularJS wrapper for [SweetAlert](http://tristanedwards.me/sweetalert). Sweet Alert is a beautiful replacement for Javascript's "Alert".
+AngularJS wrapper for [SweetAlert](http://t4t5.github.io/sweetalert/). Sweet Alert is a beautiful replacement for Javascript's "Alert".
 
 ## Demo
 [http://oitozero.github.io/ngSweetAlert/](http://oitozero.github.io/ngSweetAlert/)
